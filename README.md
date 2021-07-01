@@ -1,15 +1,44 @@
-# PERCENTZERO(퍼젠)/tkghldkr(사회악)
-_________________________
-응애
+## PERCENTZERO!
+```js
+const pcnt = {
+  "info" : {
+  "nick" : ["PERCENTZERO","퍼젠","PCNT"]
+  "mbti" : "ENTP",
+  "gender" : "male",
+  "age" : "12",
+  "korean_age" : "14",
+  "Type" : "front end",
+  "Web" : "https://percentzero.github.io",
+  },
+  "skils" : {
+  "lang": [
+  "JavaScript",
+  "TypeScript",
+  "CSS"
+  ],
+  learning: [
+  "Swift"
+  ],
+  },
+  "PC" : {
+  "MainPC" : {
+  "CPU" : "i5-10500",
+  "GPU" : "RTX 2060",
+  "RAM" : "16GB"
+  },
+"Second" : {
+"CPU" : "i3-6100",
+"GPU" : "Intel HD Graphics 530",
+"RAM" : "8GB"
+  },
+"MacBook" : {
+"Chip" : "M1",
+"RAM" : "8G"
+  }
+ }
+}
+function Portfolio() {
+window.location.href = pcnt.info.Web;
+}
+```
 
-
-# 언어
-_____________________
-
-![github status](https://github-readme-stats.vercel.app/api/top-langs/?username=percentzero&show_icons=true&bg_color=10,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
-ㄴ 아 PHP 이거 미디어위키 스킨땜에 이런거
-
-
-# 포트폴리오
-
-https://percentzero.github.io
