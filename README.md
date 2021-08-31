@@ -41,6 +41,6 @@ function Portfolio() {
 window.location.href = pcnt.info.Web;
 }
 ```
-[![PCNT's GitHub stats](https://github-readme-stats.vercel.app/api?username=PERCENTZERO)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PERCENTZERO)]
+![PCNT's GitHub stats](https://github-readme-stats.vercel.app/api?username=PERCENTZERO)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PERCENTZERO)
 
