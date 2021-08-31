@@ -41,4 +41,5 @@ function Portfolio() {
 window.location.href = pcnt.info.Web;
 }
 ```
+[![PCNT's GitHub stats](https://github-readme-stats.vercel.app/api?username=PERCENTZERO)](https://github.com/anuraghazra/github-readme-stats)
 
