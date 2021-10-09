@@ -2,7 +2,7 @@
 ```js
 const pcnt = {
   "info" : {
-  "nick" : ["PERCENTZERO","퍼젠","PCNT"]
+  "nick" : ["PERCENTZERO","퍼젠","PCNT"],
   "mbti" : "ENTP",
   "gender" : "male",
   "age" : "12",
@@ -40,6 +40,7 @@ const pcnt = {
 function Portfolio() {
 window.location.href = pcnt.info.Web;
 }
+console.log(pcnt.girlfriend) //undefined
 ```
 ![PCNT's GitHub stats](https://github-readme-stats.vercel.app/api?username=PERCENTZERO)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PERCENTZERO)
