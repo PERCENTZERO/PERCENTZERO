@@ -9,6 +9,7 @@ const pcnt = {
     korean_age : "14",
     Type : "Web",
     Web : "https://percentzero.github.io",
+    girlfriend : "❤️❤️❤️♥️♥️♥️❣️❣️❣️💕💕✨"
   },
   skils : {
     lang: [
@@ -46,7 +47,7 @@ const pcnt = {
 function Portfolio() {
   window.location.href = pcnt.info.Web;
 }
-console.log(pcnt.girlfriend) //❤️ 이젠 생겼어요❤️
+console.log(pcnt.info.girlfriend) //❤️ 이젠 생겼어요❤️
 ```
 ![PCNT's GitHub stats](https://github-readme-stats.vercel.app/api?username=PERCENTZERO)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PERCENTZERO)
