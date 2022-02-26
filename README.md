@@ -1,4 +1,6 @@
-## PERCENTZERO!
+## ~~PERCENTZERO!~~
+
+![close](close.png)
 ```js
 const pcnt = {
    info : {
@@ -6,7 +8,7 @@ const pcnt = {
     mbti : "ENTP",
     gender : "male",
     age : "13",
-    korean_age : "14",
+    korean_age : "15",
     Type : "Web",
     Web : "https://percentzero.github.io",
     girlfriend : "ㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗ"
