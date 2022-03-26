@@ -1,6 +1,5 @@
 ## ~~PERCENTZERO!~~
 
-![close](close.png)
 ```js
 const pcnt = {
    info : {
@@ -11,7 +10,7 @@ const pcnt = {
     korean_age : "15",
     Type : "Web",
     Web : "https://percentzero.github.io",
-    girlfriend : "ㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗ"
+    girlfriend : true
   },
   skils : {
     lang: [
