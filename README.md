@@ -10,7 +10,7 @@ const pcnt = {
     korean_age : "15",
     Type : "Web",
     Web : "https://percentzero.github.io",
-    girlfriend : true
+    girlfriend : false
   },
   skils : {
     lang: [
